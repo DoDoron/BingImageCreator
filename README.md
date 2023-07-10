@@ -9,4 +9,4 @@ High quality image generation by Microsoft. Reverse engineered API.
 * In the JavaScript console, type cookieStore.get("_U").then(result => console.log(result.value)) and press enter
 * Copy the output. This is used in --U or auth_cookie.
 ## Image example
-<img src="./1.jpeg", height="100x", width="100px">
+<img src="./1.jpeg" height="100x" width="100px">
