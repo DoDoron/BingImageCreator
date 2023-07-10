@@ -2,9 +2,7 @@
 This code uses the [BingImageCreator](https://github.com/acheong08/BingImageCreator/tree/main) module to generate and save an image.
 ## Introduction
 High quality image generation by Microsoft. Reverse engineered API.    
-'''
-pip install BingImageCreator
-'''
+'pip install BingImageCreator'
 ## How to get AUTH_COOKIE
 * Go to https://bing.com/.
 * F12 to open console
